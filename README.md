@@ -1,0 +1,2 @@
+# SFDetector
+Spreading factor detector
