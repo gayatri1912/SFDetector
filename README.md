@@ -3,7 +3,7 @@ Spreading factor detector
 The installation procedure is the same as for any GNU Radio OOT module:
 
 ```
-git clone https://github.com/gayatri1912/SFDetector.git
+git clone https://github.com/gayatri1912/gr-SFDetector.git
 cd SFDetector
 mkdir build
 cd build
